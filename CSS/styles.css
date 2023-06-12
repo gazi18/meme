@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+h1,h3{
+    color: rgb(248, 7, 7);
+}
+h3{
+    font-size:12px;
+}
+h1{
+    font-size:44px
+}
+.meme{
+    border-style: solid;
+    border-color: rgb(233, 8, 8);
+    
+}
